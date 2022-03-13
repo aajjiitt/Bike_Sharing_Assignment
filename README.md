@@ -29,13 +29,13 @@
 
 
 ## Technologies Used
--Python - Python 3.10.2</br>
--numpy - 1.21.5</br>
--seaborn - 0.11.2</br>
--matplotlib - 3.4.3</br>
--Pandas - 1.3.4</br>
--sklearn - 0.24.2</br>
--statsmodels - 0.12.2
+- Python - Python 3.10.2</br>
+- numpy - 1.21.5</br>
+- seaborn - 0.11.2
+- matplotlib - 3.4.3
+- Pandas - 1.3.4</br>
+- sklearn - 0.24.2</br>
+- statsmodels - 0.12.2
 
 
 ## Acknowledgements
