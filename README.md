@@ -13,12 +13,12 @@
 ## General Information
 - A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 - What is the background of your project?
-- BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.
+ BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.
   The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.  
 - What is the business problem that your project is trying to solve?
-- To maximize the revenue and analyze different factors that impact the demand of boombikes
+ To maximize the revenue and analyze different factors that impact the demand of boombikes
 - What is the dataset that is being used?
-- We are analyzing the data set of two years 2018 and 2019 from boombikes.
+ We are analyzing the data set of two years 2018 and 2019 from boombikes.
 
 
 ## Conclusions
