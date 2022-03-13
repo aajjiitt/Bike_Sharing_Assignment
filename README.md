@@ -39,7 +39,7 @@
 
 
 ## Acknowledgements
--This research was supported by Educational organisation Upgrad and under the guidance of our mentor  
+- This research was supported by Educational organisation Upgrad and under the guidance of our mentor  
  who helped us learn and work towards the assignment.
 
 
