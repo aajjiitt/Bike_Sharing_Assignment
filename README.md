@@ -22,9 +22,9 @@
 
 
 ## Conclusions
-Final equation:
+<b>Final equation:</b></br>
  cnt = 0.171244 + (0.228581 x yr) + (0.052441 x workingday) + (0.595988 x temp) - (0.170916 x hum) - (0.188772 x windspeed) + (0.082670 x summer) + (0.135504 x winter) + (0.062458 x sat) - (0.239137 x Light Snow) - (0.053623 x Mist) - (0.043937 x July) + (0.092832 x September)
- Conclusion:
+ <b>Conclusion:</b></br>
 - Booking of bike demand increased in 2019 as compare to 2018
 - With increase in temperature demand of bike booking increases 
 - Humiditiy,windspeed,Light Snow,Mist and  mnth july has negatively impact the demand on bik, with increase in hum demand decreases
